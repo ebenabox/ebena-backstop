@@ -1,0 +1,14 @@
+{
+  "name": "ebena-backstop",
+  "version": "1.0.0",
+  "description": "Ebena BackstopJS repo for regression assistance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "backstopjs": "^3.7.0"
+  }
+}
